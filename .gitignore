@@ -1,0 +1,25 @@
+# Visual Studio
+.vs/
+**/.vs/
+*.user
+*.suo
+
+# .NET
+**/bin/
+**/obj/
+
+# Node
+**/node_modules/
+**/dist/
+
+# Variables privadas
+.env
+.env.*
+!.env.example
+
+# Logs
+*.log
+
+# Sistema
+.DS_Store
+Thumbs.db
